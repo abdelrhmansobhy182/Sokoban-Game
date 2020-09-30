@@ -1,0 +1,4 @@
+abdo,21, moves ,13, pushes ,6, minutes ,20,
+abdo,12, moves ,38, pushes ,7, minutes ,59,
+hh,11, moves ,0, pushes ,0, minutes ,0,
+hh,10, moves ,0, pushes ,0, minutes ,0,
