@@ -1,2 +1,2 @@
 # Sokoban-Game
-#change photo's path 
+# change photo's path 
